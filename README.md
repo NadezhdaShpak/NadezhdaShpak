@@ -38,8 +38,8 @@ Looking for projects to apply skills in:
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?logo=git&logoColor=white)
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=NadezhdaShpak&theme=transparent&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=NadezhdaShpak&theme=transparent&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=NadezhdaShpak&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com?user=NadezhdaShpak&theme=transparent&date_format=j%20M%5B%20Y%5D&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NadezhdaShpak&theme=transparent&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ---
