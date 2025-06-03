@@ -1,5 +1,5 @@
 ## 💫 About Me:
-I am a junior Java developer with experience working on educational projects, and a master of a stack of modern technologies.<br>
+I am a Java developer with experience working on educational projects, and a master of a stack of modern technologies.<br>
 In a year of intensive training, I mastered a full-fledged development stack. <br>
 Looking for projects to apply skills in:
 - Development of microservice architectures
