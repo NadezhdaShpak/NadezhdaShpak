@@ -14,9 +14,40 @@ Looking for projects to apply skills in:
 - Integrating REST API with Hibernate
 - Setting up CI/CD pipelines
 
-## 🌍 Languages   
+## 🌍 Languages
 <img src="https://flagcdn.com/w20/gb.png" width="20" alt="UK Flag"> English (B1)<br>
 <img src="https://flagcdn.com/w20/es.png" width="20" alt="Spain Flag"> Spanish (B1)
+
+## 🚀 Projects
+1. **Database Performance Benchmark: MySQL vs Redis**<br>
+   Tech: Java, Spring Boot, Hibernate, Redis, Docker, PostgreSQL<br>
+Achieved 14x faster query response (450ms → 32ms) by implementing Redis caching for frequent data requests.<br>
+Automated benchmark tests with Docker Compose and isolated environments.<br>
+Used DTOs for Redis serialization and batch data loading.<br>
+
+2. **Quest Gorillaz: Text Adventure Platform**<br>
+   Tech: Java EE, JSP, Servlet API, JUnit 5, Mockito, Bootstrap<br>
+Web-based platform for creating/playing text quests with 3 built-in scenarios.<br>
+Features: user authentication, quest builder, real-time stats tracking, session-based progress saving.<br>
+97% test coverage for critical logic (REST endpoints, role-based access).<br>
+
+3. **REST API: Security & Localization Refactoring**<br>
+   Tech: Spring Boot, H2/PostgreSQL, Maven, JUnit<br>
+Refactored legacy code: migrated sensitive data to environment variables, added NoHtml validation against injections.<br>
+Implemented multi-language support (EN/ES/RU) for emails and UI via Spring i18n.<br>
+Configured 142 integration tests with H2 in-memory DB and separate Spring profiles.<br>
+
+4. **Hippodrome Simulator**<br>
+   Tech: JavaFX, JUnit 5, Mockito, Log4j2<br>
+2D horse racing simulator with randomized movement algorithms and event logging.<br>
+100% edge-case coverage: validated input parameters, tested performance with 50 concurrent horses.<br>
+Implemented log rotation and error handling.<br>
+
+5. **Video Rental Store Hibernate Optimization**<br>
+   Tech: Hibernate, MySQL, Liquibase, SQL Optimization<br>
+Identified and fixed database schema issues (missing foreign keys, redundant data).<br>
+Proposed indexing strategies for faster query execution on rental dates.<br>
+Normalized address tables to reduce data duplication.<br>
 
 
 ## 💻 Tech Stack:
@@ -34,7 +65,7 @@ Looking for projects to apply skills in:
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?&logo=docker&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?logo=apache-maven)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?logo=intellij-idea)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white) 
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?logo=git&logoColor=white)
 
 ## 📊 GitHub Stats:
