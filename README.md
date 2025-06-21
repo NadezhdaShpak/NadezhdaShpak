@@ -45,13 +45,13 @@ Refactored legacy code: migrated sensitive data to environment variables, added 
 Implemented multi-language support (EN/ES/RU) for emails and UI via Spring i18n.<br>
 Configured 142 integration tests with H2 in-memory DB and separate Spring profiles.<br>
 
-4. ###  🎥 [Hippodrome: Horse Racing Simulator](https://github.com/NadezhdaShpak/hippodrome)<br>
+4. ###  🐎 [Hippodrome: Horse Racing Simulator](https://github.com/NadezhdaShpak/hippodrome)<br>
    🛠️   **Tech: JavaFX | JUnit 5 | Mockito | Log4j2**<br>
 2D horse racing simulator with randomized movement algorithms and event logging.<br>
 100% edge-case coverage: validated input parameters, tested performance with 50 concurrent horses.<br>
 Implemented log rotation and error handling.<br>
 
-5. ###  🐎 [Video Rental: Hibernate Optimization](https://github.com/NadezhdaShpak/project-hibernate-2)<br>
+5. ###  🎥 [Video Rental: Hibernate Optimization](https://github.com/NadezhdaShpak/project-hibernate-2)<br>
    🛠️  **Tech: Hibernate | MySQL | Liquibase | SQL Optimization**<br>
 Identified and fixed database schema issues (missing foreign keys, redundant data).<br>
 Proposed indexing strategies for faster query execution on rental dates.<br>
