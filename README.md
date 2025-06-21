@@ -9,7 +9,10 @@ Looking for projects to apply skills in:
 - Optimization of DB performance
 - Integration of caching systems<br>
 
-## 📫 Contacts: [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:9096971133@mail.ru) | [![Telegram](https://img.shields.io/badge/-Telegram-0088cc?style=flat&logo=telegram)](https://t.me/Alliransa) | [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/NadezhdaShpak/)
+## 📫 Contacts:
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:9096971133@mail.ru)
+| [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/Alliransa)
+| [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/NadezhdaShpak/)
 
 ## 💼 Experience
 **Java Developer Trainee JavaRush** (2024-2025)
