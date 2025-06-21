@@ -33,7 +33,7 @@ Achieved 14x faster query response (450ms → 32ms) by implementing Redis cachin
 Automated benchmark tests with Docker Compose and isolated environments.<br>
 Used DTOs for Redis serialization and batch data loading.<br>
 
-2.  ### 🎮 [Text Adventure Platform: Quest Gorillaz](https://github.com/NadezhdaShpak/ProjectGorillaz)<br>
+2. ###  🎮 [Text Adventure Platform: Quest Gorillaz](https://github.com/NadezhdaShpak/ProjectGorillaz)<br>
    🛠️   **Tech: Java EE | JSP | Servlet API | JUnit 5 | Mockito | Bootstrap**<br>
 Web-based platform for creating/playing text quests with 3 built-in scenarios.<br>
 Features: user authentication, quest builder, real-time stats tracking, session-based progress saving.<br>
